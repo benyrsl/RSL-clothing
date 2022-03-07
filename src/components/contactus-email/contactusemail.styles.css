@@ -1,0 +1,19 @@
+.contactButton {
+  min-width: 165px;
+  width: auto;
+  height: auto;
+  letter-spacing: 0.5px;
+  line-height: 50px;
+  padding: 0 10px 0 10px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Open Sans Condensed";
+  font-weight: bolder;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+}
