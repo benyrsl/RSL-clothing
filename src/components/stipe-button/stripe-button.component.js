@@ -15,10 +15,10 @@ const StripeCheckoutButton = ({ price }) => {
   return (
     <StripeCheckout
       label="Pay Now"
-      name="Armany Clothing"
+      name="RSL Clothing"
       billingAddress
       shippingAddress
-      image="https://svgshare.com/getbyhash/sha1-XAvWR/1Y34u/iMKiWE0XaQG/is0="
+      image="https://svgshare.com/getbyhash/sha1-NFoA81Iuu123fNqpF4Ce7BeFwy0="
       description={`Your total is $${price}`}
       amount={priceForStripe}
       panelLabel="Pay Now"
