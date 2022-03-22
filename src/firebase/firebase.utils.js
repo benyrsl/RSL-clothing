@@ -3,13 +3,13 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyA4Km6jN0P4uj2aN3RpzLZj18bxowHg1Sc",
-  authDomain: "armany-clothing-db.firebaseapp.com",
-  projectId: "armany-clothing-db",
-  storageBucket: "armany-clothing-db.appspot.com",
-  messagingSenderId: "906856975957",
-  appId: "1:906856975957:web:c8220c7f60b0ad66c20edc",
-  measurementId: "G-4Q5N0VKLCG",
+  apiKey: "AIzaSyChpGaFVOyxpeVvUS8ZTTwKt66nXfXVFYc",
+  authDomain: "rsl-clothing-db.firebaseapp.com",
+  projectId: "rsl-clothing-db",
+  storageBucket: "rsl-clothing-db.appspot.com",
+  messagingSenderId: "192329481740",
+  appId: "1:192329481740:web:56169444671b401ce5f829",
+  measurementId: "G-57L22PKBJN",
 };
 
 firebase.initializeApp(config);

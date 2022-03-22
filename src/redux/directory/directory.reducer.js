@@ -1,11 +1,11 @@
 const init_state = {
   sections: [
     {
-      title: "hats",
+      title: "",
       imageUrl:
         "https://images.freeimages.com/images/large-previews/37b/encore-1452856.jpg",
       id: 1,
-      linkUrl: "shop/hats",
+      linkUrl: "shop/",
     },
     {
       title: "jackets",
