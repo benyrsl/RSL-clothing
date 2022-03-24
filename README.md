@@ -22,3 +22,10 @@ If you are interested in building new projects together please contact me at:
 brasouly@uoguelph.ca
 
 Cheers!
+
+Please click on the photo to checkout the preview video:
+
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/B5zsPV9wqu8/0.jpg)](https://www.youtube.com/watch?v=B5zsPV9wqu8)
+
